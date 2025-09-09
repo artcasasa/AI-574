@@ -1,12 +1,37 @@
-# AI 574 - Term Project & Assignments
+# 📘 AI 574 - Term Project & Assignments  
 
-This repository contains assignments and the term project for **AI 574**.  
+This repository contains the **assignments** and the **final term project** for the course **AI 574**. It is organized for clarity, easy navigation, and reproducibility.  
 
-## Contents
-- `assignments/` → Homework assignments in Jupyter Notebook format.
-- `project/` → Final term project notebook.
-- `syllabus/` → Course syllabus PDF.
-- `zip-archives/` → Original zipped files provided.
+---
 
-## How to Run
-Open the `.ipynb` files using [Jupyter Notebook](https://jupyter.org/) or [Google Colab](https://colab.research.google.com/).
+## 📂 Repository Structure  
+- 📑 **`assignments/`** → Homework assignments in Jupyter Notebook format  
+- 🎓 **`project/`** → Final term project notebook  
+- 📘 **`syllabus/`** → Course syllabus in PDF format  
+- 🗂️ **`zip-archives/`** → Original zipped files provided for reference  
+
+---
+
+## 🚀 How to Run  
+
+1. **Clone the Repository**
+```bash
+   git clone https://github.com/username/AI574-Term-Project.git
+```
+```bash 
+   cd AI574-Term-Project
+```
+Open Jupyter Notebooks
+
+Jupyter Notebook
+
+Google Colab (recommended for quick access)
+
+Example:
+
+(Optional) Install Dependencies
+If a requirements.txt file is included, install necessary Python packages:
+
+```bash
+pip install -r requirements.txt
+```

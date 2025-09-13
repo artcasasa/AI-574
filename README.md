@@ -7,8 +7,6 @@ This repository contains the **assignments** and the **final term project** for 
 ## 📂 Repository Structure  
 - 📑 **`assignments/`** → Homework assignments in Jupyter Notebook format  
 - 🎓 **`project/`** → Final term project notebook  
-- 📘 **`syllabus/`** → Course syllabus in PDF format  
-- 🗂️ **`zip-archives/`** → Original zipped files provided for reference  
 
 ---
 
@@ -35,3 +33,4 @@ If a requirements.txt file is included, install necessary Python packages:
 ```bash
 pip install -r requirements.txt
 ```
+
